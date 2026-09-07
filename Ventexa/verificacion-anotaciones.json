@@ -1,0 +1,10 @@
+{
+  "functionsCommented": 151,
+  "actionBlocksCommented": 32,
+  "executableCodeUnchanged": true,
+  "unmapped": [],
+  "testsPassed": 14,
+  "testsFailed": 0,
+  "testCommand": "node --test tests/ventexa.test.mjs tests/visual-upgrade.test.mjs",
+  "note": "Pruebas ejecutadas sobre la copia anotada con las dependencias ya instaladas. Sin instalación limpia, prueba de cámara física ni llamada real a IA en esta entrega."
+}
